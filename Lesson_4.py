@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 qwe
 =======
 
@@ -17,4 +17,3 @@ g = 'Опять измененя'
 
 print('all right')
 k = 5
->>>>>>> Stashed changes
